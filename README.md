@@ -53,12 +53,12 @@ https://emilioreyes2219.github.io/Portafolio/
 
 ## Capturas de pantalla
 
-> Reemplazar por las imágenes reales guardadas en la carpeta `/img`.
 
-![Inicio del portafolio](img/porta1.png)
-![Sección de habilidades](img/porta2.png)
-![Sección de proyectos](img/porta3.png)
-![Sección de contacto](img/porta4.png)
+
+![Inicio del portafolio](img/porta1.jpg)
+![Sección de habilidades](img/porta2.jpg)
+![Sección de proyectos y contacto](img/porta3.png)
+
 
 ---
 
