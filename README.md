@@ -57,7 +57,7 @@ https://emilioreyes2219.github.io/Portafolio/
 
 ![Inicio del portafolio](img/porta1.jpg)
 ![Sección de habilidades](img/porta2.jpg)
-![Sección de proyectos y contacto](img/porta3.png)
+![Sección de proyectos y contacto](img/porta3.jpg)
 
 
 ---
