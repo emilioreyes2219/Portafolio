@@ -81,6 +81,4 @@ https://emilioreyes2219.github.io/Portafolio/
 
 ---
 
-## Autoría
 
-Proyecto individual — curso de Desarrollo Web.
