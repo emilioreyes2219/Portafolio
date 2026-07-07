@@ -17,8 +17,8 @@ https://emilioreyes2219.github.io/Portafolio/
 - **Framework CSS usado:** Bootstrap 5 (vía CDN, solo para el sistema de
   columnas/rejilla), más un archivo `portafolio.css` con estilos
   personalizados propios (colores, tarjetas y botones hechos con CSS puro).
-- **Diseño:** simple, en tonos blanco, gris claro y gris oscuro.
-- - **Plantilla base:** Grayscale, de Start Bootstrap — https://startbootstrap.com/theme/grayscale
+
+-  **Plantilla base:** Grayscale, de Start Bootstrap — https://startbootstrap.com/theme/grayscale
 
 ### Secciones del portafolio
 
